@@ -15,3 +15,17 @@ Children:
     Type: BaseDataVariableType
     DataType: Int32
     Value: 0
+- Name: 电机1
+  Id: g=922df85ac068660b72fd2dcfc1b70b13
+  Supertype: 电机
+  DataType: Int32
+  Value: 0
+  Children:
+  - Name: 速度
+    Type: BaseDataVariableType
+    DataType: Int32
+    Value: 0
+  - Name: 加速度
+    Type: BaseDataVariableType
+    DataType: Int32
+    Value: 0
