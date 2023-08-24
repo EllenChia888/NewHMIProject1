@@ -1,0 +1,17 @@
+Name: 对象
+Type: FolderType
+Children:
+- Name: 电机
+  Id: g=cd15195764c275c454dec73e3f5bf367
+  Supertype: BaseDataVariableType
+  DataType: Int32
+  Value: 0
+  Children:
+  - Name: 速度
+    Type: BaseDataVariableType
+    DataType: Int32
+    Value: 0
+  - Name: 加速度
+    Type: BaseDataVariableType
+    DataType: Int32
+    Value: 0
